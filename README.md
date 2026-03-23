@@ -42,3 +42,15 @@ Essential services were classified based on their ability to serve basic urban f
     <td>Greenspaces<br>Cafés & Restaurants<br>Shopping Centres<br>Leisure Centers<br>Youth Clubs<br>Barbers & Hairdressers</td>
   </tr>
 </table>
+
+<h4>Network Analysis</h3>
+<p>
+The main purpose of our study is to evaluate the accessibility of a 15-minute city for social housing communities. First, we created population-weighted centroids for each social housing community. Then, we used the <strong>Network Analyst Tool</strong>, along with a road network sourced from Ordnance Survey (OS), to conduct our accessibility analysis.
+</p>
+
+<h4>Workflow</h4>
+<p>The workflow for the accessibility analysis is illustrated below:</p>
+
+<div>
+  <img src="path-to-your-network-analysis-image.png" alt="Network Analysis Workflow" width="700">
+</div>
