@@ -57,6 +57,25 @@ The main purpose of our study is to evaluate the accessibility of a 15-minute ci
 <p>The workflow for the accessibility analysis is illustrated below:</p>
 
 <div>
-  <img src="./Visualisation/Workflow.tif" 
+  <img src="./Visualisation/Workflow.png" 
        alt="Work Flow" width="700">
+</div>
+
+<h2> Results</h2>
+
+<h3>📊 Tier 3 Service Diversity Analysis</h3>
+
+<p>
+<b>Service diversity</b> measures how many different types of Tier 3 services (the most essential services) a social housing cluster can access. 
+Even if a cluster is not a service desert, it may only have access to some services (e.g., only health services) while lacking others.
+</p>
+<p>
+Our analysis shows that only <b>25.5% of Sheffield social housing clusters</b> can access <b>all Tier 3 services</b> within a 15-minute walking distance. 
+Clusters with higher service diversity are mostly in the northwest, while clusters in the southeast are more underserved.
+</p>
+
+<div>
+  <img src="./visualisation/tier3 diversity.png" 
+       alt="Tier 3 Service Diversity Map" width="700">
+  <p style="text-align:center; font-style:italic;">Figure: Tier 3 Service Diversity in Sheffield Social Housing Clusters</p>
 </div>
