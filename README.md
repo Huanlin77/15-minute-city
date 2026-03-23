@@ -63,7 +63,7 @@ The main purpose of our study is to evaluate the accessibility of a 15-minute ci
 
 <h2> Results</h2>
 
-<h3>📊 Tier 3 Service Diversity Analysis</h3>
+<h3>📊 Tier 3 Service Accessibility Diversity Analysis</h3>
 
 <p>
 <b>Service diversity</b> measures how many different types of Tier 3 services (the most essential services) a social housing cluster can access. 
@@ -75,7 +75,21 @@ Clusters with higher service diversity are mostly in the northwest, while cluste
 </p>
 
 <div>
-  <img src="./visualisation/tier3 diversity.png" 
+  <img src="./Visualisation/tier3_diversity.png" 
        alt="Tier 3 Service Diversity Map" width="700">
-  <p style="text-align:center; font-style:italic;">Figure: Tier 3 Service Diversity in Sheffield Social Housing Clusters</p>
 </div>
+
+<h3>💬 Discussion</h3>
+
+<p>
+Our study shows that all Tier 3 service deserts are in the south-east, and most Tier 2 deserts are in the east of Sheffield. 
+This reflects historical inequalities from 19th-century industrialisation, which created an east-west divide that still affects access to services today.
+</p>
+
+<p>
+Service diversity is often overlooked. Gentrification can worsen inequalities by bringing services that cater mainly to affluent newcomers, while essential Tier 3 services like affordable shops and health centres are neglected.
+</p>
+
+<p>
+Local authorities should actively ensure vulnerable communities have access to essential services through subsidies, regulation, or direct provision.
+</p>
