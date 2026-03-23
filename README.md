@@ -20,9 +20,8 @@ The data was visualised to highlight clusters of social housing, showing areas w
 </p>
 
 <div>
-  <img src="https://raw.githubusercontent.com/Huanlin77/15-minute-city/main/visualisation/15minutecity_cluster.jpg" 
+  <img src="./Visualisation/15minutecity_cluster.jpg" 
        alt="Social Housing Clusters Visualisation" width="700">
-  <p style="text-align:center; font-style:italic;">Figure: Social Housing Clusters in Sheffield</p>
 </div>
 
 <h4>Classification of Essential Services</h4>
@@ -58,5 +57,6 @@ The main purpose of our study is to evaluate the accessibility of a 15-minute ci
 <p>The workflow for the accessibility analysis is illustrated below:</p>
 
 <div>
-  <img src="path-to-your-network-analysis-image.png" alt="Network Analysis Workflow" width="700">
+  <img src="./Visualisation/Workflow.tif" 
+       alt="Work Flow" width="700">
 </div>
