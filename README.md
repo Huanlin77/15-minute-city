@@ -19,6 +19,12 @@ We used data from the 2021 Census provided by the Office for National Statistics
 The data was visualised to highlight clusters of social housing, showing areas with the highest concentration of social housing units.
 </p>
 
+<div>
+  <img src="https://raw.githubusercontent.com/Huanlin77/15-minute-city/main/visualisation/15minutecity_cluster.jpg" 
+       alt="Social Housing Clusters Visualisation" width="700">
+  <p style="text-align:center; font-style:italic;">Figure: Social Housing Clusters in Sheffield</p>
+</div>
+
 <h4>Classification of Essential Services</h4>
 <p>
 Essential services were classified based on their ability to serve basic urban functions. Services were categorised into three tiers based on their importance:
