@@ -75,6 +75,11 @@ Clusters with higher service diversity are mostly in the northwest, while cluste
 </p>
 
 <div>
+  <img src="./Visualisation/tier3_accessibility.jpg" 
+       alt="Social Housing Clusters Visualisation" width="700">
+</div>
+
+<div>
   <img src="./Visualisation/tier3_diversity.png" 
        alt="Tier 3 Service Diversity Map" width="700">
 </div>
@@ -82,7 +87,7 @@ Clusters with higher service diversity are mostly in the northwest, while cluste
 <h3>💬 Discussion</h3>
 
 <p>
-Our study shows that all Tier 3 service deserts are in the south-east, and most Tier 2 deserts are in the east of Sheffield. 
+Our study shows that all Tier 3 service deserts are in the south-east of Sheffield. 
 This reflects historical inequalities from 19th-century industrialisation, which created an east-west divide that still affects access to services today.
 </p>
 
